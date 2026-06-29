@@ -1,0 +1,18 @@
+{
+  "download_directory": "./downloads",
+  "logs_directory": "./logs",
+  "ffmpeg_path": "./ffmpeg/bin/ffmpeg.exe",
+  "max_concurrent_downloads": 3,
+  "chunk_size": 8192,
+  "timeout": 30,
+  "theme": "dark",
+  "save_formats": [
+    "mp3",
+    "m4a",
+    "wav"
+  ],
+  "audio_quality": "192",
+  "remember_last_directory": true,
+  "auto_delete_temp": true,
+  "notification_enabled": true
+}
